@@ -4,6 +4,9 @@
 # Use the * multiplication operator to multiply the length and width:
 # length * width
 # Return the resulting value.
+def area(length, width)
+    length * width
+end
 
 # Next, define a method named "perimeter" that calculates the perimeter of a rectangle.
 # The method should take two numbers as parameters, one for length and one for width.
@@ -12,6 +15,11 @@
 # addition operation happens first:
 # 2 * (length + width)
 # Return the resulting value.
+def perimeter(length, width)
+    2 * (length * width)
+end
 
 # Now call the area and perimeter methods, passing two numeric arguments to each.
 # Print the values they return.
+puts area(2, 4)
+puts perimeter(2, 4)
