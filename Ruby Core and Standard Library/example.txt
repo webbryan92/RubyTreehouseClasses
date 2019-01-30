@@ -1,0 +1,4 @@
+Name: ok
+Email: its just bash
+Name: big
+Email: chungus
