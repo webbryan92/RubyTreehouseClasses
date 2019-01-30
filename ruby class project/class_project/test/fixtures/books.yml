@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  page_numbers: MyString
+  integer: MyString
+  dewey_decimal: 1.5
+
+two:
+  title: MyString
+  page_numbers: MyString
+  integer: MyString
+  dewey_decimal: 1.5
